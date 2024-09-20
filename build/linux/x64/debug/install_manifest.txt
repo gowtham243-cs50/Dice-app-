@@ -1,0 +1,14 @@
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/iamrich
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/fonts/PlaywriteHRLijeva-Regular.ttf
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/images/download.png
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/gowtham/flutter/iamrich/iamrich/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
