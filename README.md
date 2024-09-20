@@ -11,8 +11,9 @@
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/dice_screenshot1.png" alt="Screenshot 1" width="250"/>
-  <img src="assets/screenshots/dice_screenshot2.png" alt="Screenshot 2" width="250"/>
+  <img src="assets/images/Screenshot_2024-09-20-11-34-56-29_0d5a98ce19b81ee0e6bbd6590ba2d067.jpg" alt="Screenshot 1" width="250"/>
+  <img src="assets/images/Screenshot_2024-09-20-11-35-01-98_0d5a98ce19b81ee0e6bbd6590ba2d067.jpg" alt="Screenshot 2" width="250"/>
+  <img src="assets/images/Screenshot_2024-09-20-11-35-04-13_0d5a98ce19b81ee0e6bbd6590ba2d067.jpg" alt="Screenshot 3" width="250"/>
 </p>
 
 ## Getting Started
